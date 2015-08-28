@@ -7,7 +7,7 @@ In the meantime, if you wanna check out my [skills], I'd be more than honored!
 
 ## Current Projects
 - [CSCI 1100L Website]
-- **NMIX 4310 Redesign**
+- NMIX 4310 Redesign
 - 
 
 ## Past Projects
