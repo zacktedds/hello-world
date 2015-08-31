@@ -14,3 +14,6 @@ Skills I have that I feel are worth mentioning.
 - Brackets (confident)
 - Microsoft Office (masterful)
 - Wordpress (proficient)
+- Adobe Premiere Pro (learning)
+- GitHub (learning)
+- Adobe InDesign (proficient)
